@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Sandip Bankar 👋
 
-<!--
-**bankarsandip64/bankarsandip64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer | C++ | DSA | Full-Stack Web Development
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student interested in software engineering, problem-solving, and building practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on full-stack development projects.
+- 🌱 Learning Data Structures & Algorithms and strengthening my CS fundamentals.
+- 💻 Interested in backend development, databases, and scalable software systems.
+- 🤝 Open to learning opportunities, internships, and collaboration.
+
+### 🛠️ Technical Skills
+
+**Languages:** C++, JavaScript, Python, SQL
+
+**Frontend:** HTML, CSS, JavaScript
+
+**Backend:** Node.js, Express.js
+
+**Database:** MongoDB, MySQL
+
+**Core Concepts:** Data Structures & Algorithms, OOP, DBMS
+
+### 📌 Featured Projects
+
+- **URL Shortener** – A backend application for generating and managing short URLs.
+- **Phishing Website Detection** – Exploring machine learning techniques to identify suspicious URLs.
+
+### 📫 Connect With Me
+
+- LinkedIn:https://www.linkedin.com/in/sandip-bankar-21874a333/
+- Github: https://github.com/bankarsandip64
+
+---
+
+⭐ Always learning, building, and improving.
